@@ -138,7 +138,7 @@ function runProgram() {
 }
 // Words to test with antidisestablishmentarianism , Maximize, Euouae (musical term from medieval times)
 
-
+//With notes and  enable actions
 
 // Don't write any code below this line //
 // And don't change these or your program will not run as expected //
